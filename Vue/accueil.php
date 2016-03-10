@@ -1,56 +1,21 @@
-<!DOCTYPE HTML>
-<!--
-	Halcyonic by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Halcyonic by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-	</head>
-	<body>
-		<div id="page-wrapper">
+<?php
+	include '../Include/header.php';
+?>
 
-			<!-- Header -->
-				<div id="header-wrapper">
-					<header id="header" class="container">
-						<div class="row">
-							<div class="12u">
-
-								<!-- Logo -->
-									<h1><a href="#" id="logo">Halcyonic</a></h1>
-
-								<!-- Nav -->
-									<nav id="nav">
-										<a href="index.html">Homepage</a>
-										<a href="threecolumn.html">Three Column</a>
-										<a href="twocolumn1.html">Two Column #1</a>
-										<a href="twocolumn2.html">Two Column #2</a>
-										<a href="onecolumn.html">One Column</a>
-									</nav>
-
-							</div>
-						</div>
-					</header>
 					<div id="banner">
 						<div class="container">
 							<div class="row">
 								<div class="6u 12u(mobile)">
 
 									<!-- Banner Copy -->
-										<p>We do something really useful, important, and unique. Learn all about it here ...</p>
+										<p>Bienvenue sur ce site ...</p>
 										<a href="#" class="button-big">Go on, click me!</a>
 
 								</div>
 								<div class="6u 12u(mobile)">
 
 									<!-- Banner Image -->
-										<a href="#" class="bordered-feature-image"><img src="images/banner.jpg" alt="" /></a>
+										<a href="#" class="bordered-feature-image"><img height="250" src="../images/book2.jpeg"/></a>
 
 								</div>
 							</div>
@@ -67,8 +32,8 @@
 
 									<!-- Feature #1 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="images/pic01.jpg" alt="" /></a>
-											<h2>Welcome to Halcyonic</h2>
+											<a href="#" class="bordered-feature-image"><img src="../images/pic01.jpg" alt="" /></a>
+											<h2></h2>
 											<p>
 												This is <strong>Halcyonic</strong>, a free site template
 												by <a href="http://n33.co/">AJ</a> for
@@ -82,7 +47,7 @@
 
 									<!-- Feature #2 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
+											<a href="#" class="bordered-feature-image"><img src="../images/pic02.jpg" alt="" /></a>
 											<h2>Responsive You Say?</h2>
 											<p>
 												Yes! Halcyonic is built on the <a href="http://getskel.com">Skel</a>
@@ -96,7 +61,7 @@
 
 									<!-- Feature #3 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="images/pic03.jpg" alt="" /></a>
+											<a href="#" class="bordered-feature-image"><img src="../images/pic03.jpg" alt="" /></a>
 											<h2>License Info</h2>
 											<p>
 												Halcyonic is licensed under the <a href="http://html5up.net/license">CCA 3.0</a> license,
@@ -110,7 +75,7 @@
 
 									<!-- Feature #4 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="images/pic04.jpg" alt="" /></a>
+											<a href="#" class="bordered-feature-image"><img src="../images/pic04.jpg" alt="" /></a>
 											<h2>Volutpat etiam aliquam</h2>
 											<p>
 												Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse
@@ -137,7 +102,7 @@
 												<h2>Who We Are</h2>
 												<h3>A subheading about who we are</h3>
 											</header>
-											<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
+											<a href="#" class="feature-image"><img src="../images/pic05.jpg" alt="" /></a>
 											<p>
 												Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed.
 												Suspendisse eu varius nibh. Suspendisse vitae magna eget odio amet mollis
@@ -174,17 +139,17 @@
 											</header>
 											<ul class="quote-list">
 												<li>
-													<img src="images/pic06.jpg" alt="" />
+													<img src="../images/pic06.jpg" alt="" />
 													<p>"Neque nisidapibus mattis"</p>
 													<span>Jane Doe, CEO of UntitledCorp</span>
 												</li>
 												<li>
-													<img src="images/pic07.jpg" alt="" />
+													<img src="../images/pic07.jpg" alt="" />
 													<p>"Lorem ipsum consequat!"</p>
 													<span>John Doe, President of FakeBiz</span>
 												</li>
 												<li>
-													<img src="images/pic08.jpg" alt="" />
+													<img src="../images/pic08.jpg" alt="" />
 													<p>"Magna veroeros amet tempus"</p>
 													<span>Mary Smith, CFO of UntitledBiz</span>
 												</li>
@@ -197,86 +162,6 @@
 					</div>
 				</div>
 
-			<!-- Footer -->
-				<div id="footer-wrapper">
-					<footer id="footer" class="container">
-						<div class="row">
-							<div class="8u 12u(mobile)">
-
-								<!-- Links -->
-									<section>
-										<h2>Links to Important Stuff</h2>
-										<div>
-											<div class="row">
-												<div class="3u 12u(mobile)">
-													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
-													</ul>
-												</div>
-												<div class="3u 12u(mobile)">
-													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
-													</ul>
-												</div>
-												<div class="3u 12u(mobile)">
-													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
-													</ul>
-												</div>
-												<div class="3u 12u(mobile)">
-													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
-									</section>
-
-							</div>
-							<div class="4u 12u(mobile)">
-
-								<!-- Blurb -->
-									<section>
-										<h2>An Informative Text Blurb</h2>
-										<p>
-											Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse eu
-											varius nibh. Suspendisse vitae magna eget odio amet mollis. Duis neque nisi,
-											dapibus sed mattis quis, sed rutrum accumsan sed. Suspendisse eu varius nibh
-											lorem ipsum amet dolor sit amet lorem ipsum consequat gravida justo mollis.
-										</p>
-									</section>
-
-							</div>
-						</div>
-					</footer>
-				</div>
-
-			<!-- Copyright -->
-				<div id="copyright">
-					&copy; Untitled. All rights reserved. | Design: <a href="http://html5up.net">HTML5 UP</a>
-				</div>
-
-		</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/skel-viewport.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+<?php
+	include '../Include/footer.php';
+?>
