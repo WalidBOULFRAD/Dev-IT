@@ -38,8 +38,8 @@
 									<section>
 										<h2>Note d'information</h2>
 										<p>
-											Ce site est lié au projet du module Methode Agile suivi à l'université Paul Sabatier.
-											Il est développé de maniere interalement statique.
+											Ce site est lié au projet du module Méthode Agile suivi à l'université Paul Sabatier.
+											Il est développé de manière intégralement statique.
 										</p>
 									</section>
 
