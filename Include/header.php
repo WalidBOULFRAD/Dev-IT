@@ -28,10 +28,13 @@
 								<!-- Nav -->
 									<nav id="nav">
 										<a href="../index.html">Accueil</a>
-										<a href="threecolumn.html">Menu 1</a>
-										<a href="twocolumn1.html">Menu 2</a>
-										<a href="twocolumn2.html">Menu 3</a>
-										<a href="onecolumn.html">Menu 4</a>
+										<a href="new.html">Actualités</a>
+										<a href="update.html">Mise à jours</a>
+										<a href="functionnalities.html">Fonctionnalités</a>
+										<a href="software.html">Logiciels</a>
+										<a href="porability.html">Portabilité</a>
+										<a href="accesories.html">Accessoires</a>
+										<a href="search.html">Recherche</a>
 									</nav>
 
 							</div>
