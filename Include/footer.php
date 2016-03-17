@@ -6,39 +6,25 @@
 
 								<!-- Links -->
 									<section>
-										<h2>Links to Important Stuff</h2>
+										<h2>Quelques liens importants</h2>
 										<div>
 											<div class="row">
-												<div class="3u 12u(mobile)">
+												<div class="4u 12u(mobile)">
 													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
+														<li><a href="https://www.microsoft.com/surface/fr-fr/devices/surface-book">Microsoft Surface Book</a></li>
+														<li><a href="http://www.lesnumeriques.com/ordinateur-portable/microsoft-surface-book-p28981/test.html">Test complet</a></li>
 													</ul>
 												</div>
-												<div class="3u 12u(mobile)">
+												<div class="4u 12u(mobile)">
 													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
+														<li><a href="http://www.microsoftstore.com/store/msfr/fr_FR/pdp/Surface-Book/productID.332680400">Caracteristiques</a></li>
+														<li><a href="http://www.lesnumeriques.com/ordinateur-portable/microsoft-surface-book-p28981/surface-book-premiere-prise-en-main-n48985.html">1er prise en main</a></li>
 													</ul>
 												</div>
-												<div class="3u 12u(mobile)">
+												<div class="4u 12u(mobile)">
 													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
-													</ul>
-												</div>
-												<div class="3u 12u(mobile)">
-													<ul class="link-list last-child">
-														<li><a href="#">Neque amet dapibus</a></li>
-														<li><a href="#">Sed mattis quis rutrum</a></li>
-														<li><a href="#">Accumsan suspendisse</a></li>
-														<li><a href="#">Eu varius vitae magna</a></li>
+														<li><a href="http://www.journaldunet.com/solutions/dsi/1163344-microsoft-surface-book/">La revolution technologique</a></li>
+														<li><a href="http://www.clubic.com/pc-portable/article-796476-1-test-microsoft-surface-book.html">L'avenir des hybrides</a></li>
 													</ul>
 												</div>
 											</div>
@@ -50,12 +36,10 @@
 
 								<!-- Blurb -->
 									<section>
-										<h2>An Informative Text Blurb</h2>
+										<h2>Note d'information</h2>
 										<p>
-											Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse eu
-											varius nibh. Suspendisse vitae magna eget odio amet mollis. Duis neque nisi,
-											dapibus sed mattis quis, sed rutrum accumsan sed. Suspendisse eu varius nibh
-											lorem ipsum amet dolor sit amet lorem ipsum consequat gravida justo mollis.
+											Ce site est lié au projet du module Methode Agile suivi à l'université Paul Sabatier.
+											Il est développé de maniere interalement statique.
 										</p>
 									</section>
 
