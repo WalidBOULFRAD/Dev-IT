@@ -1,5 +1,5 @@
 			<!-- Footer -->
-				<div id="footer-wrapper">
+				<div id="features-wrapper">
 					<footer id="footer" class="container">
 						<div class="row">
 							<div class="8u 12u(mobile)">

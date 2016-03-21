@@ -19,6 +19,7 @@
 
 			<!-- Header -->
 				<div id="header-wrapper">
+					
 					<header id="header" class="container">
 						<div class="row">
 							<div class="12u">
@@ -40,3 +41,5 @@
 							</div>
 						</div>
 					</header>
+					
+				</div>
