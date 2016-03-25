@@ -33,7 +33,7 @@
 										<a href="update.php">Mise à jours</a>
 										<a href="functionnalities.php">Fonctionnalités</a>
 										<a href="software.php">Logiciels</a>
-										<a href="porability.php">Portabilité</a>
+										<a href="portability.php">Portabilité</a>
 										<a href="accessories.php">Accessoires</a>
 										<a href="search.php"><i class="fa fa-search"></i></a>
 									</nav>

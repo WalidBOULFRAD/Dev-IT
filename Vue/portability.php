@@ -9,7 +9,7 @@
 
 									<h2> 
 										<font size="20pt" color="black">
-										    Accessoires
+										    Portabilité
 										</font>
 									</h2>
 										
