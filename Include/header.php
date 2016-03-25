@@ -30,7 +30,7 @@
 								<!-- Nav -->
 									<nav id="nav">
 										<a href="new.php">Actualités</a>
-										<a href="update.php">Mise à jours</a>
+										<a href="update.php">Mise à jour</a>
 										<a href="functionnalities.php">Fonctionnalités</a>
 										<a href="software.php">Logiciels</a>
 										<a href="portability.php">Portabilité</a>
