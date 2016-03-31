@@ -91,7 +91,7 @@
 				</div>
 
 			<!-- Content -->
-				<div id="content-wrapper">
+				<div id="features-wrapper">
 					<div id="content">
 						<div class="container">
 							<div class="row">
@@ -138,7 +138,7 @@
 								</div>
 								<div class="2u 12u(mobile)">
 
-									<!-- Box #3 -->
+									<!-- Box #4 -->
 										<section>
 											<header>
 												<h2>MORELLON</h2>
@@ -151,10 +151,10 @@
 								</div>
 								<div class="2u 12u(mobile)">
 
-									<!-- Box #3 -->
+									<!-- Box #5 -->
 										<section>
 											<header>
-												<h2>SIELA</h2>
+												<h2>SIESA</h2>
 											</header>
 											<p>
 												Desc.

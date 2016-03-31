@@ -8,17 +8,21 @@
 								
 								<div class="12u 12u(mobile)">
 
-									<h1>Recherche</h1>
-								
+									<h2> 
+										<font size="20pt" color="black">
+										    Recherche
+										</font>
+									</h2>
+																	
 									<form method="post" role="search" action="./rechercheStatique.php">
-								        
-										<center>
-											Saisir vos mots clés pour cette recherche :
-											<input type="text" class="form-control" id="motCle" name="motCle" placeholder="Mots clés à rechercher !" maxlength="20">
-											</br></br>
-											<button type="submit" class="button-big" name="submit">Valider</button>
-										</center>
-										
+								        <font color="black">
+											<center>
+												Saisir vos mots clés pour cette recherche :
+												<input type="text" class="form-control" id="motCle" name="motCle" placeholder="Mots clés à rechercher !" maxlength="20">
+												</br></br>
+												<button type="submit" class="button-big" name="submit">Valider</button>
+											</center>
+										</font>
 								    </form>
 
 								</div>								

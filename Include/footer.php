@@ -1,12 +1,18 @@
 			<!-- Footer -->
 				<div id="features-wrapper">
 					<footer id="footer" class="container">
+						
 						<div class="row">
+						
 							<div class="8u 12u(mobile)">
 
+								<font color="white">
+								
 								<!-- Links -->
 									<section>
+							
 										<h2>Quelques liens importants</h2>
+							
 										<div>
 											<div class="row">
 												<div class="4u 12u(mobile)">
@@ -29,10 +35,16 @@
 												</div>
 											</div>
 										</div>
+								
 									</section>
 
+								</font>
+
 							</div>
+							
 							<div class="4u 12u(mobile)">
+
+								<font color="white">
 
 								<!-- Blurb -->
 									<section>
@@ -43,16 +55,31 @@
 										</p>
 									</section>
 
+								</font>
+
 							</div>
+							
+							<div class="12u 12u(mobile)">
+
+								<font color="white">
+
+								<!-- Blurb -->
+									<section>
+										<p>
+											<center>
+												Dev_IT 2016 ! All rights reserved &copy;
+											</center>
+										</p>
+									</section>
+
+								</font>
+
+							</div>
+							
 						</div>
+
 					</footer>
 				</div>
-
-			<!-- Copyright -->
-				<div id="copyright">
-					Dev_IT 2016 ! All rights reserved &copy;
-				</div>
-
 		</div>
 
 		<!-- Scripts -->

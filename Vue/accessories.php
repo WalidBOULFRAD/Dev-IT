@@ -12,8 +12,25 @@
 										    Accessoires
 										</font>
 									</h2>
+
+									<font color="black">
 										
-									
+										<table class="12u">
+												<tr> 
+													<td><p><u>Noms</u></p></td><td><p><u>Images</u></p></td>
+												</tr>
+												<tr> 
+													<td> <p>Porte stylet Pen Loop pour Surface</p> </td><td> <img src="../images/Porte-stylet-Pen-Loop-pour-Surface.jpg">  </td>
+												</tr>
+												<tr> 
+													<td> <p>Protection d'ecran pour Surface</p> </td><td><img src="../images/Protection-decran-pour-Surface.jpg"> </td>
+												</tr>
+												<tr> 
+													<td> <p>Stylet Surface de Microsoft</p> </td><td> <img src="../images/Stylet-Surface-de-Microsoft.jpg"></td>
+												</tr>
+										</table>
+
+									</font>
 
 								</div>
 							</div>

@@ -8,12 +8,16 @@
 								
 								<div class="12u 12u(mobile)">
 
-									<h1>Resultats</h1>
-									
+									<h2> 
+										<font size="20pt" color="black">
+										    Resultats
+										</font>
+									</h2>
+																		
 									<?php
 										$mc = $_POST["motCle"];
 										
-										echo "Vous avez fait une recherche sur '$mc', en voila les résultats :";
+										echo "<font color='black'>Vous avez fait une recherche sur '$mc', en voila les résultats :";
 										
 										if (($mc == "actualite") || ($mc == "actualité") || ($mc == "actualites") || ($mc == "actualités")) {
 									?>
@@ -24,7 +28,7 @@
 									
 									<?php
 										} else {
-											echo "</br>Aucune information n'est disponible pour cette recherche ...";
+											echo "</br>Aucune information n'est disponible pour cette recherche ...</font>";
 										}
 									?>
 
