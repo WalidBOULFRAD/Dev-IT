@@ -33,7 +33,7 @@
 
 									<!-- Feature #1 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="../images/pic01.jpg" alt="" /></a>
+											<a href="./functionnalities.php" class="bordered-feature-image"><img src="../images/pic01.jpg" alt="" /></a>
 											<h2></h2>
 											<p>
 												This is <strong>Halcyonic</strong>, a free site template
@@ -48,7 +48,7 @@
 
 									<!-- Feature #2 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="../images/pic02.jpg" alt="" /></a>
+											<a href="./update.php" class="bordered-feature-image"><img src="../images/pic02.jpg" alt="" /></a>
 											<h2>Responsive You Say?</h2>
 											<p>
 												Yes! Halcyonic is built on the <a href="http://getskel.com">Skel</a>
@@ -62,7 +62,7 @@
 
 									<!-- Feature #3 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="../images/pic03.jpg" alt="" /></a>
+											<a href="./portability.php" class="bordered-feature-image"><img src="../images/pic03.jpg" alt="" /></a>
 											<h2>License Info</h2>
 											<p>
 												Halcyonic is licensed under the <a href="http://html5up.net/license">CCA 3.0</a> license,
@@ -76,7 +76,7 @@
 
 									<!-- Feature #4 -->
 										<section>
-											<a href="#" class="bordered-feature-image"><img src="../images/pic04.jpg" alt="" /></a>
+											<a href="./software.php" class="bordered-feature-image"><img src="../images/pic04.jpg" alt="" /></a>
 											<h2>Volutpat etiam aliquam</h2>
 											<p>
 												Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse
@@ -107,6 +107,7 @@
 											<p>
 												Desc.
 											</p>
+											<img src="../images/bah.jpg" alt="" height="120"/>
 										</section>
 
 								</div>
@@ -120,6 +121,7 @@
 											<p>
 												Desc.
 											</p>
+											<img src="../images/walid.jpg" alt="" height="120"/>
 										</section>
 
 								</div>
@@ -133,6 +135,7 @@
 											<p>
 												Desc.
 											</p>
+											<img src="../images/adnane.jpg" alt="" height="120"/>
 										</section>
 
 								</div>
@@ -146,6 +149,7 @@
 											<p>
 												Desc.
 											</p>
+											<img src="../images/max.jpg" alt="" height="120"/>
 										</section>
 
 								</div>
@@ -159,6 +163,7 @@
 											<p>
 												Desc.
 											</p>
+											<img src="../images/marlon.jpg" alt="" height="120"/>
 										</section>
 
 								</div>
