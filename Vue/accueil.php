@@ -9,8 +9,8 @@
 								<div class="6u 12u(mobile)">
 
 									<!-- Banner Copy -->
-										<p>Bienvenue sur ce site ...</p>
-										<a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big">Découvrir la Surface Book en vidéo ^^</a>
+										<p>Bienvenue sur Le site qui vous fera acheter le nouveau fleuron de Microsoft ...</p>
+										<a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big" target="_blank">Découvrir la Surface Book en vidéo ^^</a>
 
 								</div>
 								<div class="6u 12u(mobile)">
