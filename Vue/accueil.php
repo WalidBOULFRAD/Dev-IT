@@ -34,12 +34,12 @@
 									<!-- Feature #1 -->
 										<section>
 											<a href="./functionnalities.php" class="bordered-feature-image"><img src="../images/pic01.jpg" alt="" /></a>
-											<h2></h2>
+											<h2>Marie, 71 ans</h2>
 											<p>
-												This is <strong>Halcyonic</strong>, a free site template
-												by <a href="http://n33.co/">AJ</a> for
-												<a href="http://html5up.net">HTML5 UP</a>. It's responsive,
-												built on HTML5 + CSS3, and includes 5 unique page layouts.
+												Je ne suis pas habitué aux nouvelles technologies,
+												et j'aimerais trouver des indications faciles à comprendre
+												me permettant de mieux utiliser ma Surface.
+
 											</p>
 										</section>
 
@@ -49,11 +49,10 @@
 									<!-- Feature #2 -->
 										<section>
 											<a href="./update.php" class="bordered-feature-image"><img src="../images/pic02.jpg" alt="" /></a>
-											<h2>Responsive You Say?</h2>
+											<h2>Emilie, 19 ans</h2>
 											<p>
-												Yes! Halcyonic is built on the <a href="http://getskel.com">Skel</a>
-												framework, so it has full responsive support for desktop, tablet,
-												and mobile device displays.
+												Je suis une étudiante en école de commerce, et je veux être tenu au courant des dernières mise à jour
+												de la Surface.
 											</p>
 										</section>
 
@@ -63,11 +62,10 @@
 									<!-- Feature #3 -->
 										<section>
 											<a href="./portability.php" class="bordered-feature-image"><img src="../images/pic03.jpg" alt="" /></a>
-											<h2>License Info</h2>
+											<h2>Thierry, 50 ans</h2>
 											<p>
-												Halcyonic is licensed under the <a href="http://html5up.net/license">CCA 3.0</a> license,
-												so use it for personal or commercial use as much as you like (just keep
-												the footer credit intact).
+												Je suis un cadre dans une grande entreprise. Souvent en déplacement à cause de mon travail, j'utilise beaucoup ma
+												Surface, et la portabilité est primordiale pour moi.
 											</p>
 										</section>
 
@@ -77,10 +75,10 @@
 									<!-- Feature #4 -->
 										<section>
 											<a href="./software.php" class="bordered-feature-image"><img src="../images/pic04.jpg" alt="" /></a>
-											<h2>Volutpat etiam aliquam</h2>
+											<h2>Alexis, 17 ans</h2>
 											<p>
-												Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse
-												eu varius nibh. Suspendisse vitae magna eget odio amet mollis.
+												Je suis lycéen, et je veux connaitre la liste des jeux vidéos et des logiciels compatibles
+												avec la Surfae Book.
 											</p>
 										</section>
 
