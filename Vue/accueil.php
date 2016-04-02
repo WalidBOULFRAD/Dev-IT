@@ -8,10 +8,10 @@
 							<div class="row">
 								<div class="8u 12u(mobile)">
 
-									<!-- Banner Copy -->
-										<p>Bienvenue sur Le site qui vous fera acheter le nouveau fleuron de Microsoft ...</p>
-										<a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big" target="_blank">Découvrir la Surface Book en vidéo ^^</a>
-
+								<!-- Banner Copy -->
+									</br>
+									<p>Bienvenue sur Le site qui vous fera acheter le nouveau fleuron de Microsoft ...</p>
+									<center><a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big" target="_blank">Découvrir la Surface Book en vidéo ^^</a></center>
 								</div>
 								<div class="4u 12u(mobile)">
 
@@ -91,6 +91,7 @@
 				<div id="features-wrapper">
 					<div id="content">
 						<div class="container">
+							<font size="6px" color="white"><center><p>Pour nous contacter :</p></center></font>
 							<div class="row">
 								<div class="1u 12u(mobile)">
 								</div>

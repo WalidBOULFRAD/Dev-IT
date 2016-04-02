@@ -1,5 +1,5 @@
 			<!-- Footer -->
-				<div id="features-wrapper">
+				<div id="header-wrapper">
 					<footer id="footer" class="container">
 						
 						<div class="row">
@@ -11,7 +11,7 @@
 								<!-- Links -->
 									<section>
 							
-										<h2>Quelques liens importants</h2>
+										<font size="5px"><p>Quelques liens importants</p></font>
 							
 										<div>
 											<div class="row">
@@ -48,7 +48,7 @@
 
 								<!-- Blurb -->
 									<section>
-										<h2>Note d'information</h2>
+										<font size="5px"><p>Note d'information</p></font>
 										<p>
 											Ce site est lié au projet du module Méthode Agile suivi à l'université Paul Sabatier.
 											Il est développé de manière intégralement statique.
