@@ -6,17 +6,17 @@
 					<div id="banner">
 						<div class="container">
 							<div class="row">
-								<div class="6u 12u(mobile)">
+								<div class="8u 12u(mobile)">
 
 									<!-- Banner Copy -->
 										<p>Bienvenue sur Le site qui vous fera acheter le nouveau fleuron de Microsoft ...</p>
 										<a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big" target="_blank">Découvrir la Surface Book en vidéo ^^</a>
 
 								</div>
-								<div class="6u 12u(mobile)">
+								<div class="4u 12u(mobile)">
 
 								<!-- Banner Image -->
-									<img height="250" src="../images/book2.jpeg"/>
+									<img height="270" src="../images/book2.jpeg"/>
 
 								</div>
 							</div>
