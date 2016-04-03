@@ -125,7 +125,7 @@
 										<section>
 											<h2>KEHELI</h2>
 											<p>
-												<center><a href="#" target="_blank">Profil</a></center>
+												<center><a href="https://www.linkedin.com/in/adnane-keheli-22284a119" target="_blank">Profil</a></center>
 											</p>
 											<img src="../images/adnane.jpg" alt="" height="120"/>
 										</section>
