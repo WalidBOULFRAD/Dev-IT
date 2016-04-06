@@ -11,7 +11,7 @@
 								<!-- Banner Copy -->
 									</br>
 									<p>Bienvenue sur Le site qui vous fera acheter le nouveau fleuron de Microsoft ...</p>
-									<center><a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big" target="_blank">Découvrir la Surface Book en vidéo ^^</a></center>
+									<center><a href="https://www.youtube.com/watch?v=XVfOe5mFbAE" class="button-big" target="_blank">Découvrir la Surface Book en vidéo =)</a></center>
 								</div>
 								<div class="4u 12u(mobile)">
 
