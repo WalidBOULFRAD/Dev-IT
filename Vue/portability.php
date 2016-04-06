@@ -13,8 +13,8 @@
 										</font>
 									</h2>
 										
-									<font size="3pt" color="black">
-										<h3>Voici une liste non exhaustive des caractéristiques liés à la portabilité de votre future Surface Book :</h3>
+									<font size="2pt" color="black">
+										<p>Voici une liste non exhaustive des caractéristiques liés à la portabilité de votre future Surface Book :</p>
 									
 										<table class="12u">
 	

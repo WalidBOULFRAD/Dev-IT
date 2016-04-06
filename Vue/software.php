@@ -14,7 +14,7 @@
 										<br> <br>
 									</h2>
 									
-									<font size="3pt" color="black">	
+									<font size="2pt" color="black">	
 									<table>
 									
 										<tr>

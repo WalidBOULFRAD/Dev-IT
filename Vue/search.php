@@ -15,9 +15,9 @@
 									</h2>
 																	
 									<form method="post" role="search" action="./rechercheStatique.php">
-								        <font color="black">
+								        <font size="2px" color="black">
 											<center>
-												Saisir vos mots clés pour cette recherche :
+												<p>Saisir vos mots clés pour cette recherche :</p>
 												<input type="text" class="form-control" id="motCle" name="motCle" placeholder="Mots clés à rechercher !" maxlength="20">
 												</br></br>
 												<button type="submit" class="button-big" name="submit">Valider</button>
