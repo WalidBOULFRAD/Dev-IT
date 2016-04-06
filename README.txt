@@ -1,25 +1,34 @@
-Halcyonic by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#Le site Surface Book Guide.
+
+Ce guide pour le surface Book permettra aux potentiels utilisateur de voir comment cet ordinateur pourrait satisfaire leurs exigences. 
 
 
-A somewhat unusual but interesting responsive site template. I did this one to test out a
-new pattern set I put together and I think it really came together well. As for use cases
-it's kind of unspecific so hey, use it for whatever.
+## État de l'art
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-n33.co @n33co dribbble.com/n33
+Nouvelle technologie de Microsoft qui vient de faire surface, offrant  de nouvelles opportunités , considéré comme le premier ordinateur hybride  offrant toute les fonctionnalité d’un ordinateur  en mode tablette . Mais cette technologie reste encore mystérieuse pour la plupart d’entre vous. 
 
 
-Credits:
+## Objectifs
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Le site que nous mettons, aujourd'hui, à votre disposition vous permettra de déterminer si, en effet, cette révolution informatique est fait pour vous ou alors s'il vous faut tout simplement passer votre chemin et nous remerciez de vous faire économiser près de 2500€. 
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+
+## Rôles impliqués (partie prenantes)
+
+* Scrum Master            : On fera tourner le Scrum Master tout au long du projet,
+* Product Owner           : On fera tourner le Product Owner tout au long du projet,
+* Équipe de développement : Membre de l’équipe Dev_IT,
+* Coach Agile             : Mr Franck Silvestre (enseignant de TD).
+
+
+## Fonctionnalités
+
+* Menu des profils,
+* Aide avec système de commentaire,
+* Redirection vers site officiel et site d’achats,
+* Contactez-nous,
+* Insertion de vidéo style "Tuto",
+* Catalogue image de la Surface Book.
+
+
+Dossier suivi projet : https://drive.google.com/open?id=1STJub8g0HUizKCZ-wIV2OEs6m7nLl1ES_0C-miJWHCw
