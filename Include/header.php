@@ -26,7 +26,7 @@
 							<div class="12u">
 
 								<!-- Logo -->
-									<h1><a href="../index.php" id="logo">Dev_IT</a></h1>
+									<h1><a href="../index.php" id="logo"><i class="fa fa-home"></i>Dev_IT</a></h1>
 
 								<!-- Nav -->
 									<nav id="nav">
