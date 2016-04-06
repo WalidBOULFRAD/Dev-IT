@@ -31,4 +31,4 @@ Le site que nous mettons, aujourd'hui, √† votre disposition vous permettra de d√
 * Catalogue image de la Surface Book.
 
 
-Dossier suivi projet : https://drive.google.com/open?id=1STJub8g0HUizKCZ-wIV2OEs6m7nLl1ES_0C-miJWHCw
+Dossier suivi projet : https://drive.google.com/open?id=0B7Eccr4oelQuOUd3eXpncUU1MFk
